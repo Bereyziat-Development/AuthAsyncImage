@@ -6,8 +6,8 @@ The AuthenticatedAsyncImage struct allows you to load images asynchronously with
 
 ## Features
 
-<img width="357" alt="Screenshot 2023-06-26 at 15 21 58" src="https://github.com/Bereyziat-Development/AuthAsyncImage/assets/101000022/f355cc94-84e3-4da1-9dda-26662f2023e6">
 
+<img width="356" alt="Screenshot 2023-06-29 at 15 57 04" src="https://github.com/Bereyziat-Development/AuthAsyncImage/assets/101000022/9f704390-0349-44d2-9f38-366c37967190">
 
 
 
